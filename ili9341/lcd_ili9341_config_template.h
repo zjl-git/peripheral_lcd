@@ -1,5 +1,5 @@
-#ifndef _LCD_ILI9341_CONFIG__
-#define _LCD_ILI9341_CONFIG__
+#ifndef _LCD_ILI9341_CONFIG_TEMPLATE__
+#define _LCD_ILI9341_CONFIG_TEMPLATE__
 
 #ifdef __cplusplus
 extern "C"

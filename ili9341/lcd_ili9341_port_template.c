@@ -82,6 +82,6 @@ void lcd_ili9341_port_write_data(unsigned char data, unsigned char mode)
         return ;
     }
 
-
+    //send data.
     lcd_ili9341_port_cs_set();
 }
